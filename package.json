@@ -1,6 +1,16 @@
 {
   "name": "milevox",
-  "private": true,
+  "private": false,
+"description": "Voice-activated mileage & maintenance tracker — log trips and vehicle expenses hands-free.",
+"keywords": ["mileage", "tracker", "voice", "gps", "maintenance", "car", "expense"],
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/aldrichfred4-gif/milevox.git"
+},
+"homepage": "https://github.com/aldrichfred4-gif/milevox#readme",
+"bugs": {
+  "url": "https://github.com/aldrichfred4-gif/milevox/issues"
+},
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -30,4 +40,9 @@
     "typescript-eslint": "^8.59.2",
     "vite": "^8.0.12"
   }
-}
+}/home/engine/.bashrc: line 1: syntax error near unexpected token `('
+/home/engine/.bashrc: line 1: `. /etc/profile.d/workload-containment.shn# ~/.bashrc: executed by bash(1) for non-login shells.'
+/home/engine/.bashrc: line 1: syntax error near unexpected token `('
+/home/engine/.bashrc: line 1: `. /etc/profile.d/workload-containment.shn# ~/.bashrc: executed by bash(1) for non-login shells.'
+/home/engine/.bashrc: line 1: syntax error near unexpected token `('
+/home/engine/.bashrc: line 1: `. /etc/profile.d/workload-containment.shn# ~/.bashrc: executed by bash(1) for non-login shells.'
